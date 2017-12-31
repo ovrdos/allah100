@@ -23,6 +23,10 @@ div.cont {
     background-color: #444;
     whitespace:nowrap;
 }
+div.cover {
+    color: #444;
+    background-color: gold;
+}
 span{
     color: gold;
     font-family: 'Ubuntu', sans-serif;
