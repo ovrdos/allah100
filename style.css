@@ -1,1 +1,4 @@
-
+html,body {margin:0;padding:0;overflow:none;scrolling:none;height:100%}
+div#content {border: 8px solid black;}
+div.cont {border: 1px solid gray;width: 100px;height: 67px;}
+span{color: gray;font-family: 'Ubuntu', sans-serif;line-height 67px;margin:auto auto;text-align:center;}
