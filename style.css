@@ -21,6 +21,7 @@ div.cont {
     padding: 20px;
     background-color: #444;
     whitespace:nowrap;
+    width: 160px;
 }
 div.cover {
     color: #444;
