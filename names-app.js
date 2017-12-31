@@ -3,8 +3,9 @@
 // names-app.js
 // Functions for displaying the names of Allah on allah100.com
 
-let names = ["Allah", "Al-Rahman", "Al-Malik", "Al-Hakim", "Al-Shakur", 
-"Al-Rashid", "Al-Lateef", "Al-Salaam", "Al-Basir", "Malik-Ul-Mulk"];
+let names = ["ALLAH","ALRAHMAN","ALMALIK","ALHAKIM","ALSHAKUR", 
+             "ALJABBAR","ALKARIM","ALGAFFAR", "ALHAKAM","ALHAQQ"
+"ALRASHID", "ALLATEEF", "ALSALAAM", "ALBASIR", "MALIK-UL-MULK"];
 
 var displayName = function(name) {
   var obj = document.createElement('div');
