@@ -19,7 +19,7 @@ var displayName = function(name) {
 }
 
 var highlight = function(obj) {
- obj.className = 'cont lite';
+ obj.className = 'cont light';
 }
 
 var content = function(obj) {
