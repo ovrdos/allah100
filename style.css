@@ -1,8 +1,9 @@
 html,body {margin:0;padding:0;overflow:none;scrolling:none;height:100%}
 div#content {border: 8px solid black;}
-div.cont {border-bottom: 1px dotted gold;
-    line-height: 70px;
+div.cont {
+    line-height: 50px;
     display: inline;
-    padding: 24px;
+    padding: 2%;
+}
 }
 span{color: gray;font-family: 'Ubuntu', sans-serif;line-height 67px;margin:auto auto;text-align:center;}
