@@ -1,9 +1,9 @@
 html,body {margin:0;padding:0;overflow:none;scrolling:none;height:100%}
 div#content {border: 8px solid black;}
 div.cont {
-    line-height: 50px;
+    line-height: 70px;
     display: inline;
-    padding: 2%;
+    padding: 24px;
+    background-color: #444;
 }
-}
-span{color: gray;font-family: 'Ubuntu', sans-serif;line-height 67px;margin:auto auto;text-align:center;}
+span{color: gold;font-family: 'Ubuntu', sans-serif;line-height 67px;margin:auto auto;text-align:center;}
