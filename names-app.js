@@ -10,8 +10,8 @@ let names = ["ALLAH","ALRAHMAN","ALMALIK","ALHAKIM","ALSHAKUR",
 var displayName = function(name) {
   var obj = document.createElement('div');
   obj.className = 'cont';
-  obj.onmouseover = function(){highlight(this)};
-  obj.onmouseout = function(){content(this)};
+  obj.onmouseover = function(){highlight()};
+  obj.onmouseout = function(){content()};
   obj.innerHTML = '<span>'+name+'</span>';
   var element = document.getElementById('content');
   if (element.appendChild) element.appendChild(obj);
@@ -19,10 +19,12 @@ var displayName = function(name) {
 }
 
 var highlight = function(obj) {
+ obj = this;
  obj.className = 'cover';
 }
 
 var content = function(obj) {
+ obj = this;
  obj.className = 'cont';
 }
 
