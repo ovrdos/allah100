@@ -10,10 +10,20 @@ let names = ["ALLAH","ALRAHMAN","ALMALIK","ALHAKIM","ALSHAKUR",
 var displayName = function(name) {
   var obj = document.createElement('div');
   obj.className = 'cont';
+  obj.onmouseover = 'highlight()';
+  obj.onmouseout = 'content()';
   obj.innerHTML = '<span>'+name+'</span>';
   var element = document.getElementById('content');
   if (element.appendChild) element.appendChild(obj);
   console.log(name);
+}
+
+var highlight = function() {
+ this.className = 'cover';
+}
+
+var content = function() {
+ this.className = 'cont';
 }
 
 var init = function() {
