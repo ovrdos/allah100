@@ -4,7 +4,7 @@
 // Functions for displaying the names of Allah on allah100.com
 
 let names = ["ALLAH","ALRAHMAN","ALMALIK","ALHAKIM","ALSHAKUR", 
-             "ALJABBAR","ALKARIM","ALGAFFAR", "ALHAKAM","ALHAQQ"
+             "ALJABBAR","ALKARIM","ALGAFFAR", "ALHAKAM","ALHAQQ",
 "ALRASHID", "ALLATEEF", "ALSALAAM", "ALBASIR", "MALIK-UL-MULK"];
 
 var displayName = function(name) {
