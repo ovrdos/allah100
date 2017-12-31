@@ -20,7 +20,7 @@ div.cont {
     display: inline;
     padding: 20px;
     background-color: #444;
-    whitespace:nowrap;
+    white-space:nowrap;
     width: 160px;
 }
 div.cover {
