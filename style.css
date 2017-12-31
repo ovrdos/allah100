@@ -5,6 +5,11 @@ html,body {
     scrolling:none;
     height:100%
 }
+div#title {
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+    color: #444;
+}
 div#content {
     border: 8px solid black;
     background-color: #444;
