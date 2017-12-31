@@ -9,7 +9,6 @@ let names = ["ALLAH","ALRAHMAN","ALMALIK","ALHAKIM","ALSHAKUR",
 
 var displayName = function(name) {
   var obj = document.createElement('div');
-  obj.className = 'cont';
   obj.onmouseover = function(){highlight(this)};
   obj.onmouseout = function(){content(this)};
   obj.innerHTML = '<span>'+name+'</span>';
