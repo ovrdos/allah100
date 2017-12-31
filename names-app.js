@@ -10,7 +10,7 @@ var displayName = function(name) {
   var obj = document.createElement('div');
   obj.className = 'cont';
   obj.innerHTML = '<span>'+name+'</span>';
-  document.body.appendChild(obj);
+  if (document.body.appendChild) document.body.appendChild(obj);
   console.log(name);
 }
 
@@ -19,6 +19,4 @@ var init = function() {
     displayName(name);
   }
 }
-
-init();
 
