@@ -10,7 +10,8 @@ var displayName = function(name) {
   var obj = document.createElement('div');
   obj.className = 'cont';
   obj.innerHTML = '<span>'+name+'</span>';
-  if (document.body.appendChild) document.body.appendChild(obj);
+  var element = document.getElementById('content');
+  if (element.appendChild) element.appendChild(obj);
   console.log(name);
 }
 
