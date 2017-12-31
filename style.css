@@ -22,9 +22,13 @@ div.cont {
     white-space:nowrap;
     min-width: 160px;
 }
-div.cover {
+div.light {
     color: #444;
     background-color: gold;
+}
+div.cover {
+    color: gold;
+    background-color: #444;
 }
 span{
     color: gold;
