@@ -19,9 +19,8 @@ div.cont {
     line-height: 70px;
     display: inline;
     padding: 20px;
-    background-color: #444;
     white-space:nowrap;
-    width: 160px;
+    min-width: 160px;
 }
 div.cover {
     color: #444;
