@@ -9,6 +9,7 @@ div#title {
     font-family: 'Anton', sans-serif;
     font-size: 20px;
     color: #444;
+    padding: 12px;
 }
 div#content {
     border: 8px solid black;
