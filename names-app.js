@@ -11,6 +11,7 @@ var displayName = function(name) {
   var obj = document.createElement('div');
   obj.onmouseover = function(){highlight(this)};
   obj.onmouseout = function(){content(this)};
+  obj.className = 'cont cover';
   obj.innerHTML = '<span>'+name+'</span>';
   var element = document.getElementById('content');
   if (element.appendChild) element.appendChild(obj);
@@ -18,11 +19,11 @@ var displayName = function(name) {
 }
 
 var highlight = function(obj) {
- obj.className = 'cover';
+ obj.className = 'cont lite';
 }
 
 var content = function(obj) {
- obj.className = 'cont';
+ obj.className = 'cont cover';
 }
 
 var init = function() {
