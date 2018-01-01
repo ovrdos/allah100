@@ -218,12 +218,15 @@ var displayName = function(name,index) {
   obj.innerHTML = '<span>'+name+'</span>';
   var element = document.getElementById('content');
   if (element.appendChild) element.appendChild(obj);
-  console.log(name);
 }
 
 var displayAttributes = function(index) {
    if (!index) return;
    var attr = values[index];
+   document.getElementById('arabic').innerText=attr[0];
+   document.getElementById('name').innerText=attr[1];
+   document.getElementById('desc').innerText=attr[2];
+   document.getElementById('detail').innerText=attr[3];
    console.log(attr);
 }
 
