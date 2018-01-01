@@ -41,12 +41,14 @@ div#attributes {
     margin: auto auto;   
 }    
 div#arabic { 
-       font-size: 14px;   
+    font-size: 60px;
+    margin-top: 50px; 
 }
 div#name { 
-       font-size: 14px;   
+    font-size: 31px;
+    margin-top: 5px;  
 }
 div#desc { 
-       font-size: 14px;   
+    font-size: 21px;
 }
 img {margin-left:6px}
