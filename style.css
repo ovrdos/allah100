@@ -15,9 +15,9 @@ div#content {
     border: 8px solid black;
     background-color: #444;
     width:100%;
-    overflow: auto;
+    overflow: scroll;
     position: fixed;
-    bottom: 0px;
+    bottom: -200px;
 }
 div.cont {
     line-height: 44px;
