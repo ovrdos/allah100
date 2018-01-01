@@ -6,7 +6,7 @@ html,body {
     height:100%
 }
 body {
-    background-position: 
+    background-image: url('allah.svg'); 
 }
 div#title {
     font-family: 'Anton', sans-serif;
