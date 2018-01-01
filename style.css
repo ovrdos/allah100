@@ -18,11 +18,10 @@ div#content {
     overflow: auto;
 }
 div.cont {
-    line-height: 70px;
-    display: inline;
-    padding: 20px;
-    white-space:nowrap;
-    min-width: 160px;
+    line-height: 44px;
+    display: inline-grid;
+    white-space: nowrap;
+    min-width: 110px;
 }
 div.light {
     color: #444;
