@@ -220,8 +220,15 @@ var displayName = function(name) {
   console.log(name);
 }
 
+var displayAttributes = function(index) {
+   if (!index) return;
+   var attr = values[index];
+   console.log(attr);
+}
+
 var highlight = function(obj) {
- obj.className = 'cont light';
+    displayAttributes(obj.id);
+    obj.className = 'cont light';
 }
 
 var content = function(obj) {
