@@ -5,6 +5,9 @@ html,body {
     scrolling:none;
     height:100%
 }
+body {
+    background-position: 
+}
 div#title {
     font-family: 'Anton', sans-serif;
     font-size: 30px;
@@ -57,5 +60,11 @@ div#desc {
 }
 div#detail { 
     width: 300px;
+}
+div.bg {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 img {margin-left:6px}
