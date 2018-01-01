@@ -107,7 +107,7 @@ let names = [
 ];
 
 let values = {
-0:["الرَّحْمَنُ","Alah","The One and only God."],
+0:["الله","Allah","The One and only God."],
 1:["الرَّحْمَنُ","Ar-Rahmaan","The Beneficent","He who wills goodness and mercy for all His creatures."],
 2:["الرَّحِيمُ","Ar-Raheem","The Merciful","He who acts with extreme kindness."],
 3:["الْمَلِكُ","Al-Malik","The Eternal Lord","The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection."],
