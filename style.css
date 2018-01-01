@@ -45,8 +45,9 @@ div#attributes {
     left: 40%;
     top: 20%;
     background-color: rgba(222,222,222,0.7);
+    border-radius: 20px;
     padding: 21px;
-    padding-top: 10px;
+    padding-top: 0px;
     display:none;
 }    
 div#arabic { 
