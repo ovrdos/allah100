@@ -36,8 +36,8 @@ var setBackground = function() {
 }
   
 var highlight = function(obj) {
-    displayAttributes(obj.id);
-    obj.className = 'cont light';
+ displayAttributes(obj.id);
+ obj.className = 'cont light';
 }
 
 var content = function(obj) {
