@@ -48,8 +48,8 @@ var init = function() {
   var i=0;
   for (let attr of names) {
     displayName(attr,i);
-    displayAttributes(0);
     i++;
   }
+displayAttributes(0);
 }
 
