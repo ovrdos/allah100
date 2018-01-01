@@ -42,7 +42,6 @@ var highlight = function(obj) {
 
 var content = function(obj) {
  obj.className = 'cont cover';
- document.getElementById('attributes').style.display='none';
 }
 
 var init = function() {
