@@ -210,7 +210,7 @@ let values = {
 };
 
 let nature = [
-  "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88603cdc-a6c7-4cea-b705-3bfec8411670/nature-wallpaper2.jpg","
+  "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88603cdc-a6c7-4cea-b705-3bfec8411670/nature-wallpaper2.jpg",
 "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/106f65e0-dbfc-4bef-85e9-ad8ef0b828ce/nature-wallpaper3.jpg",
 "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98c16f0d-9c5d-4876-9f27-7811799a12fd/nature-wallpaper4.jpg",
 "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/696d2396-7092-465d-82f3-cc05335bf018/nature-wallpaper5.jpg",
@@ -274,4 +274,4 @@ let nature = [
 "https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg",
 "https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg",
 "https://images.pexels.com/photos/158607/cairn-fog-mystical-background-158607.jpeg"
-  ]
+  ];
