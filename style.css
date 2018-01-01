@@ -9,9 +9,9 @@ body {
     background-image: url('allah.svg'); 
     background-color: rgba(255,255,255,0.1);
     height: 100%;
-    background-position: center;
+    background-position: 40% 20%;
     background-repeat: no-repeat;
-    background-blend-mode: difference;
+    background-attachment: fixed;
     background-size: 400px 400px;
 }
 div#title {
