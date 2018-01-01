@@ -55,4 +55,7 @@ div#name {
 div#desc { 
     font-size: 31px;
 }
+div#detail { 
+    width: 300px;
+}
 img {margin-left:6px}
