@@ -207,7 +207,7 @@ let values = [
 97:["الْوَارِثُ","Al-Waaris","The Eternal Inheritor","The Heir, The One whose Existence remains."],
 98:["الرَّشِيدُ","Ar-Rasheed","The Guide to Path of Rectitude","The Guide to the Right Path, The One who guides."],
 99:["الصَّبُورُ","As-Saboor","The Extensively Enduring One","The Patient, The One who does not quickly punish the sinners."]
-]
+];
 
 var displayName = function(name) {
   var obj = document.createElement('div');
