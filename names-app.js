@@ -280,6 +280,7 @@ var displayAttributes = function(index) {
    document.getElementById('name').innerText=attr[1];
    document.getElementById('desc').innerText=attr[2];
    document.getElementById('detail').innerText=attr[3];
+   document.getElementById('attributes').style.display='block';
    setNatureBackground();
 }
 
@@ -298,6 +299,7 @@ var highlight = function(obj) {
 
 var content = function(obj) {
  obj.className = 'cont cover';
+ document.getElementById('attributes').style.display='none';
 }
 
 var init = function() {
