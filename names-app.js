@@ -31,7 +31,7 @@ var setBackground = function() {
   var max = 49;
   var min = 0;
   var idx = Math.random() * (max - min) + min;
-  document.getElementsByClassName('bg')[0].style.backgroundImage='url('+nature[Math.round(idx)]+')';
+  document.body.style.backgroundImage='url('+nature[Math.round(idx)]+')';
   curr = idx;
 }
   
