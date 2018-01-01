@@ -17,7 +17,7 @@ div#content {
     width:100%;
     overflow: scroll;
     position: fixed;
-    bottom: -200px;
+    bottom: -800px;
 }
 div.cont {
     line-height: 44px;
@@ -72,8 +72,4 @@ body {
     height:100%;
     top:0px;
     left:0px;
-}
-img {margin-left:6px}
-@media (max-width:599px){
-    div#content {bottom: -300px;}
 }
