@@ -209,6 +209,59 @@ let values = {
 99:["الصَّبُورُ","As-Saboor","The Extensively Enduring One","The Patient, The One who does not quickly punish the sinners."]
 };
 
+let nature = [
+  "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88603cdc-a6c7-4cea-b705-3bfec8411670/nature-wallpaper2.jpg","
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/106f65e0-dbfc-4bef-85e9-ad8ef0b828ce/nature-wallpaper3.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98c16f0d-9c5d-4876-9f27-7811799a12fd/nature-wallpaper4.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/696d2396-7092-465d-82f3-cc05335bf018/nature-wallpaper5.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8538b976-1cff-42ae-9113-83798ff09a2f/nature-wallpaper6.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f1f881fc-e5ca-4597-8f95-fa484d2ca0f4/nature-wallpaper7.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b28e57d5-6ce3-487f-9a84-e9830d5297ac/nature-wallpaper8.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af041603-7cb3-4764-b775-a834c8fd53db/nature-wallpaper9.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60137856-c945-4d2e-8a78-45f91efcf157/nature-wallpaper10.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9cf46b62-1c25-4e87-a2c6-43a84cc57cf8/nature-wallpaper11.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98378f4c-b873-4ad1-8990-cf757b59d296/nature-wallpaper12.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29790374-a82f-495a-9f04-5ac94c3b4f25/nature-wallpaper13.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/53a4bc56-d08f-4ee1-b542-a26a20945688/nature-wallpaper14.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a535bbdd-9599-4c9f-8be4-218f8af15862/nature-wallpaper15.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/768cbcb6-df6c-430e-80b6-f7a214b5884e/nature-wallpaper16.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/49c9b14a-2704-43cb-8ffd-513b9d9df92d/nature-wallpaper17.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd26e766-e7de-48d9-96aa-294adf15fc76/nature-wallpaper18.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dac42715-8462-435f-92e0-8a73d62b62da/nature-wallpaper19.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/833be8b5-9db0-4e10-b89d-737d6394ade9/nature-wallpaper20.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a85d8004-2ef4-4556-8e58-c7e575cfe459/nature-wallpaper21.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b0801554-f406-4a48-8879-1f7fa59b83d9/nature-wallpaper22.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/05799320-85bc-4654-9bad-8adbf42939b2/nature-wallpaper23.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2ee32bf0-d803-470f-bf61-9077afe287ea/nature-wallpaper24.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b419a2d4-eba1-4186-b7db-ada0bec4fa2d/nature-wallpaper25.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cc08f450-f97d-420d-aecf-62d48da4dfed/nature-wallpaper1.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6abdc20c-a9a3-4986-b3a7-19699775505d/27-3.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ed969154-bf8d-4502-b216-4aeed220baf8/3.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7ca1b422-b4a0-4fbb-9782-b381365ec283/2.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68b6bec-d831-40f7-a5e7-47fa3fb3a755/16.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f1a7067d-9795-4dfc-8dd9-3dbcaa792b77/4.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a2560a8-9fca-4f17-b5b0-3d8cbd0b7b43/7.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/283dd347-1ad3-4a03-a98d-acd7e0b93ed0/33-2.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/290d51d6-5c5a-4f6f-919e-2478ef66628d/33.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d6c2289-978c-4d66-b153-d355c735f13e/9.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4e047162-0d34-4f18-9af0-d9ac0e293495/10.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6fb4dea5-c318-4de1-bb80-0eb0aa6649b6/11.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9e82862a-401c-4a28-838b-8811cad37f5a/15.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef92f4e3-923f-4658-ae18-86359b78cd8b/20.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fef1e648-69e6-4b0c-a4eb-c383eb89c539/28.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/790e5c0f-bde8-4a3f-ac25-d1d6a1127370/30.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cc9ed42a-ef6e-4f1f-b9f3-90d340b6e413/31.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af6522f7-a7a9-4692-ae89-2a2c550485bc/paisajes-28.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/176c2d06-fbe4-457b-9c76-27534b3e7b98/paisajes-04.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2807c1d6-a5eb-4357-9b69-f17c8a3d8a98/paisajes-08.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de6ea7b-2c3b-4c65-94b7-7062830b3f7b/paisajes-09.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f5cef4bc-83ed-42c3-84df-e6f01f470376/paisajes-19.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7733b048-aadd-43b8-af91-2bef2199727f/paisajes-29.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b307e179-c5b9-499b-8014-a5a49530f390/paisajes-31.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/284f39b2-0354-4895-b417-5b2e749a1a40/paisajes-32.jpg",
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9979371-d71d-49d1-a0d9-ec349e285347/paisajes-33.jpg"
+  ]
+
 var displayName = function(name,index) {
   var obj = document.createElement('div');
   obj.id = index;
@@ -230,6 +283,14 @@ var displayAttributes = function(index) {
    console.log(attr);
 }
 
+var setNatureBackground() {
+  var max = 49;
+  var min = 0;
+  var idx = Math.random() * (max - min) + min;
+  document.body.style.background='url(nature[idx])';
+  curr = idx;
+}
+  
 var highlight = function(obj) {
     displayAttributes(obj.id);
     obj.className = 'cont light';
