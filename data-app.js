@@ -210,7 +210,7 @@ let values = {
 };
 
 let nature = [
-  "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88603cdc-a6c7-4cea-b705-3bfec8411670/nature-wallpaper2.jpg",
+  "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88603cdc-a6c7-4cea-b705-3bfec8411670/nature-wallpaper2.jpg","
 "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/106f65e0-dbfc-4bef-85e9-ad8ef0b828ce/nature-wallpaper3.jpg",
 "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98c16f0d-9c5d-4876-9f27-7811799a12fd/nature-wallpaper4.jpg",
 "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/696d2396-7092-465d-82f3-cc05335bf018/nature-wallpaper5.jpg",
@@ -259,5 +259,19 @@ let nature = [
 "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7733b048-aadd-43b8-af91-2bef2199727f/paisajes-29.jpg",
 "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b307e179-c5b9-499b-8014-a5a49530f390/paisajes-31.jpg",
 "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/284f39b2-0354-4895-b417-5b2e749a1a40/paisajes-32.jpg",
-"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9979371-d71d-49d1-a0d9-ec349e285347/paisajes-33.jpg"
+"https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9979371-d71d-49d1-a0d9-ec349e285347/paisajes-33.jpg",
+"https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg",
+"https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg",
+"https://images.pexels.com/photos/257360/pexels-photo-257360.jpeg",
+"https://images.pexels.com/photos/207962/pexels-photo-207962.jpeg",
+"https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg",
+"https://images.pexels.com/photos/257840/pexels-photo-257840.jpeg",
+"https://images.pexels.com/photos/230629/pexels-photo-230629.jpeg",
+"https://images.pexels.com/photos/145939/pexels-photo-145939.jpeg",
+"https://images.pexels.com/photos/60006/spring-tree-flowers-meadow-60006.jpeg",
+"https://images.pexels.com/photos/129441/pexels-photo-129441.jpeg",
+"https://images.pexels.com/photos/36762/scarlet-honeyeater-bird-red-feathers.jpg",
+"https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg",
+"https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg",
+"https://images.pexels.com/photos/158607/cairn-fog-mystical-background-158607.jpeg"
   ]
