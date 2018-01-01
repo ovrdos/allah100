@@ -211,6 +211,7 @@ let values = {
 
 var displayName = function(name) {
   var obj = document.createElement('div');
+  obj.id = name;
   obj.onmouseover = function(){highlight(this)};
   obj.onmouseout = function(){content(this)};
   obj.className = 'cont cover';
@@ -236,8 +237,8 @@ var content = function(obj) {
 }
 
 var init = function() {
-  for (let name of names) {
-    displayName(name);
+  for (let attr of values) {
+    displayName(attr[1]);
   }
 }
 
