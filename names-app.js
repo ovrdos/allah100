@@ -14,14 +14,16 @@ var displayName = function(name,index) {
   if (element.appendChild) element.appendChild(obj);
 }
 
+var current_index;
 var displayAttributes = function(index) {
-   if (!index) return;
+   if (!index||index==current_index) return;
    var attr = values[index];
    document.getElementById('arabic').innerText=attr[0];
    document.getElementById('name').innerText=attr[1];
    document.getElementById('desc').innerText=attr[2];
    document.getElementById('detail').innerText=attr[3];
    document.getElementById('attributes').style.display='block';
+   current_index = index;
    setBackground();
 }
 
