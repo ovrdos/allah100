@@ -106,7 +106,7 @@ let names = [
 "AS-SABOOR"
 ];
 
-let values = [
+let values = {
 0:["الرَّحْمَنُ","Alah","The One and only God."],
 1:["الرَّحْمَنُ","Ar-Rahmaan","The Beneficent","He who wills goodness and mercy for all His creatures."],
 2:["الرَّحِيمُ","Ar-Raheem","The Merciful","He who acts with extreme kindness."],
@@ -207,7 +207,7 @@ let values = [
 97:["الْوَارِثُ","Al-Waaris","The Eternal Inheritor","The Heir, The One whose Existence remains."],
 98:["الرَّشِيدُ","Ar-Rasheed","The Guide to Path of Rectitude","The Guide to the Right Path, The One who guides."],
 99:["الصَّبُورُ","As-Saboor","The Extensively Enduring One","The Patient, The One who does not quickly punish the sinners."]
-];
+};
 
 var displayName = function(name) {
   var obj = document.createElement('div');
