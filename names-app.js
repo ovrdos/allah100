@@ -287,7 +287,7 @@ var setNatureBackground = function() {
   var max = 49;
   var min = 0;
   var idx = Math.random() * (max - min) + min;
-  document.getElementsByClassName('bg')[0].style.background='url('+nature[Math.round(idx)]+')';
+  document.getElementsByClassName('bg')[0].style.backgroundImage='url('+nature[Math.round(idx)]+')';
   curr = idx;
 }
   
