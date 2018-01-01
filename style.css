@@ -31,10 +31,19 @@ div.cover {
     color: gold;
     background-color: #444;
 }
-span{
+span {
     font-family: 'Ubuntu', sans-serif;
     line-height 100%;
     margin:auto auto;
     text-align:center;
+}
+.arabic { 
+       font-size: 14px;   
+}
+.name { 
+       font-size: 14px;   
+}
+.desc { 
+       font-size: 14px;   
 }
 img {margin-left:6px}
