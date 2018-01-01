@@ -209,9 +209,9 @@ let values = {
 99:["الصَّبُورُ","As-Saboor","The Extensively Enduring One","The Patient, The One who does not quickly punish the sinners."]
 };
 
-var displayName = function(name) {
+var displayName = function(name,index) {
   var obj = document.createElement('div');
-  obj.id = name;
+  obj.id = index;
   obj.onmouseover = function(){highlight(this)};
   obj.onmouseout = function(){content(this)};
   obj.className = 'cont cover';
@@ -237,8 +237,10 @@ var content = function(obj) {
 }
 
 var init = function() {
-  for (let attr of values) {
-    displayName(attr[1]);
+  var i=0;
+  for (let attr of names) {
+    displayName(attr,i);
+    i++;
   }
 }
 
