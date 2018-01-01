@@ -21,7 +21,7 @@ div.cont {
     line-height: 44px;
     display: inline-grid;
     white-space: nowrap;
-    min-width: 110px;
+    min-width: 200px;
 }
 div.light {
     color: #444;
