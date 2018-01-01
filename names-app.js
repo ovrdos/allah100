@@ -280,10 +280,10 @@ var displayAttributes = function(index) {
    document.getElementById('name').innerText=attr[1];
    document.getElementById('desc').innerText=attr[2];
    document.getElementById('detail').innerText=attr[3];
-   console.log(attr);
+   setNatureBackground();
 }
 
-var setNatureBackground() {
+var setNatureBackground = function() {
   var max = 49;
   var min = 0;
   var idx = Math.random() * (max - min) + min;
