@@ -16,6 +16,8 @@ div#content {
     background-color: #444;
     width:100%;
     overflow: auto;
+    position: fixed;
+    bottom: 0px;
 }
 div.cont {
     line-height: 44px;
