@@ -1,6 +1,6 @@
 // Copyright 2018 Allah100.com
 // Kamal Hakim
-// names-app.js
+// algos-app.js
 // Functions for displaying the names of Allah on allah100.com
 
 var displayName = function(name,index) {
