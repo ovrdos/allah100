@@ -28,7 +28,7 @@ var displayAttributes = function(index) {
 }
 
 var setBackground = function() {
-  var max = 49;
+  var max = 1765;
   var min = 0;
   var idx = Math.random() * (max - min) + min;
   document.body.style.backgroundImage='url('+nature[Math.round(idx)]+')';
